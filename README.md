@@ -16,11 +16,11 @@
 
 <br />
 
-Hi, I'm Israel Ebonko🙌, a Machine Learning and React Developer ❤✌.
+Hi, I'm Israel Ebonko🙌, a Backend and Cloud Developer ❤✌.
 
 **Get to know me:**
 
-- 🔭 I’m currently building a Postgresql GUI Client.
+- 🔭 I’m currently building a learning platform.
 - 🌱 I'm tinkering with Next.js.
 - 👯 Part of Developer Community.
 - 💬 Ask me anything about Python, would love to answer them.✌
